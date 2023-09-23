@@ -1,4 +1,5 @@
 # Computer-Vision
-Computer vision projects
+This repository contains all the computer vision projects
+
 
 
